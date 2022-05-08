@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dataroaring, my another github account is @xiaoqiangnk.
 - 👀 I worked on distributed storage system, linux kernel especially ext4.
 - 🌱 I’m currently learning and working on olap databases.
-- 📫 How to reach me ...
+- 📫 https://github.com/xiaoqiangnk. https://github.com/dataroaring.
 
 <!---
 dataroaring/dataroaring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
